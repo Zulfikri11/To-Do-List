@@ -1,15 +1,51 @@
-Do It Now!!
+Do It Now!!(sangat penting dan darurat/segera dilakukan)
 -
 -
 
-Schedule. Important but not urgent.
+Schedule(Penting tapi tidak darurat)
 -
 -
 
-Delegate.
+Delegate(Tidak Penting tapi Sangat Darurat)
 -
 -
 
-Delete/Eliminate.
+Delete/Eliminate(Tidak Penting dan tidak darurat)
 -
 -
+
+Identifikasinya:
+Pertanyaan untuk Menilai Urgensi:
+  [1]Apakah hal ini harus diselesaikan segera?
+      Jika ya, maka itu mungkin memiliki urgensi.
+  [2]Apakah ada batas waktu yang mendesak?
+      Jika tugas memiliki batas waktu dekat, itu bisa dianggap mendesak.
+   [3]Apa konsekuensi jika tidak segera diselesaikan?
+      Jika konsekuensinya besar atau berdampak langsung, itu bisa dianggap urgensi.
+
+Pertanyaan untuk Menilai Kepentingan:
+   [1]Bagaimana dampak jangka panjang dari tugas ini?
+      Tugas yang memiliki dampak jangka panjang sering dianggap penting.
+   [2]Apakah tugas ini sesuai dengan tujuan jangka panjang saya?
+      Jika tugas mendukung tujuan jangka panjang, itu bisa dianggap penting.
+   [3]Apakah tugas ini berkontribusi pada hasil yang signifikan?
+      Tugas yang berkontribusi secara signifikan terhadap tujuan atau hasil bisa dianggap penting.
+
+Tingkat Urgensi:
+    Apakah tugas ini harus diselesaikan segera atau memiliki batas waktu yang mendekat?
+    Apakah ada konsekuensi negatif atau dampak serius jika tugas ini tidak selesai dengan cepat?
+Tingkat Kepentingan:
+    Apakah tugas ini mendukung tujuan jangka panjang Anda?
+    Apakah menyelesaikan tugas ini akan memberikan kontribusi signifikan terhadap pencapaian tujuan Anda?
+Konsekuensi Tidak Menyelesaikan:
+    Apakah ada dampak negatif jika tugas ini tidak diselesaikan segera?
+    Apakah tugas ini memiliki dampak besar pada hasil akhir atau keberhasilan proyek?
+Konsekuensi Jangka Panjang:
+    Apakah tugas ini akan membantu mencapai tujuan jangka panjang Anda?
+    Apakah tugas ini memiliki nilai jangka panjang atau hanya bersifat sementara?
+Risiko dan Manfaat:
+    Apakah menunda tugas ini akan meningkatkan risiko atau mengurangi manfaatnya?
+    Apakah menyelesaikan tugas ini memberikan manfaat yang melebihi usaha yang diperlukan untuk menyelesaikannya?
+Prioritas Relatif:
+    Bagaimana tugas ini membandingkan dengan tugas lain dalam hal urgensi dan kepentingan?
+    Apakah tugas ini lebih penting atau lebih mendesak daripada yang lain?
