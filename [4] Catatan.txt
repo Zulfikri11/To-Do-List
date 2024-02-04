@@ -3,7 +3,7 @@ Github branch
 Jadi saat kita ingin membuat fitur baru dan ingin dikembangkan diluar repository utama maka dibuatlah cabang baru. Jika kita mau menggabungkan projek di cabang baru dengan utama kita menggunakan merging. Pertama kita pull request ke cabang utama. Lalu kita terima di cabang utama. Hal ini bisa jadi konfllik kalau ada 2 atau lebih cabang yang berbeda isinya. nah tugas cabang utama adalah memilih dan memperbaiki file tersebut
 
 Github fork
-
+Mari kita pelajari
 
 Baca buku
 
