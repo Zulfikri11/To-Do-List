@@ -1,3 +1,5 @@
 Belajar github branch
+Jadi saat kita ingin membuat fitur baru dan ingin dikembangkan diluar repository utama maka dibuatlah cabang baru. Jika kita mau menggabungkan projek di cabang baru dengan utama kita menggunakan merging. Pertama kita pull request ke cabang utama. Lalu kita terima di cabang utama.
+
 Belajar github fork
 Baca buku
