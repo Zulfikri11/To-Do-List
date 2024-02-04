@@ -1,0 +1,4 @@
+1. Membuat Repository di Github
+2. Berhasil membuat file dan commmit di Github
+3. Berhasil membuat branch baru dan menggabungkannya
+4. Berhasil menyelesaikan konflik dari 2 branch yang berbenturan
