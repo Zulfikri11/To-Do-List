@@ -1,0 +1,4 @@
+1. Telah berhasil membuat repository github
+2. berhasil membuat branch
+3. Berhasil menggabungkan(merge) dengan branch utama 
+4. Mampu menyelesaikan konflik antar branch
