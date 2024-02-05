@@ -1,5 +1,4 @@
 Do It Now!!(sangat penting dan darurat/segera dilakukan)
-- Belajar git branch di web programming unpas
 - Belajar git fork di web programming unpas
 
 Schedule(Penting tapi tidak darurat)
