@@ -2,3 +2,6 @@
 2. Berhasil membuat file dan commmit di Github
 3. Berhasil membuat branch baru dan menggabungkannya
 4. Berhasil menyelesaikan konflik dari 2 branch yang berbenturan
+5. Bisa melakukan fork dari repository orang ke repository kita
+6. Melakukan perintah git dasar seperti: git ini, git status, git add ., git commit -m ""
+7. Melakukan git branch di local computer
