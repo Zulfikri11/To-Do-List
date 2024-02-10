@@ -5,3 +5,4 @@
 5. Bisa melakukan fork dari repository orang ke repository kita
 6. Melakukan perintah git dasar seperti: git ini, git status, git add ., git commit -m ""
 7. Melakukan git branch di local computer
+8. Git conflik 
